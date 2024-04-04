@@ -49,4 +49,6 @@ class VendingMachine {
 void main() {
   VendingMachine vendingMachine = VendingMachine();
   vendingMachine.GetDrink(2);
+  VendingMachine vendingMachine = VendingMachine();
+  vendingMachine.GetDrink(3);
 }
