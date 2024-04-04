@@ -51,4 +51,6 @@ void main() {
   vendingMachine.GetDrink(2);
   VendingMachine vendingMachine = VendingMachine();
   vendingMachine.GetDrink(3);
+  VendingMachine vendingMachine = VendingMachine();
+  vendingMachine.GetDrink(3);
 }
